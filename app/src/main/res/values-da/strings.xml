@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A4_TomTurcotte</string>
+    <string name="hello_world">Hej Verden!</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="greeting_message">Velkommen Alle</string>
+    <string name="hint_message">Indtast dit navn</string>
+    <string name="button_label">Indsend</string>
+    <string name="selected_language">Engelsk</string>
+</resources>
